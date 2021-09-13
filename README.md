@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ISVios
+- 👋 Hi, I’m @IsVios
 - 🌱 I’m currently learning Haskell
 
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsVios
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Haskell and Python
 
 
 <!---
